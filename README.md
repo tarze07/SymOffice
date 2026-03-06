@@ -63,6 +63,8 @@ Skrypt generuje 3 wykresy:
 2. **histogram czasu ukończenia** (`cycle_time_hist.svg`) – rozkład dni finalizacji zadań,
 3. **boxplot ukończenia projektów** (`project_completion_boxplot.svg`) – kiedy średnio kończą się projekty.
 
+To daje szybki pogląd jak środowisko reaguje na zmianę danych wejściowych.
+
 ## Jak eksperymentować
 
 Przykładowe scenariusze:
